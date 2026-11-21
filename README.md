@@ -11,6 +11,7 @@ Fish Bot is a fully-featured Discord music bot built with [discord.js](https://d
 - **YouTube & YouTube Music Support:** Paste any standard YouTube or YouTube Music link.
 - **Playlist Parsing:** Paste a playlist link and Fish Bot will automatically queue every song.
 - **Search:** Don't have a link? Just type the name of the song (`/play lofi hip hop`) and the bot will find and play it.
+- **Interactive Soundboard:** Built-in Discord soundboard with clickable button panels. Upload video or audio clips directly through Discord (with auto video-to-audio extraction) or drop MP3s in the sounds folder!
 - **Persistent Queue:** The bot remains in the voice channel after the queue finishes, waiting for you to add more songs.
 - **Robust Audio Extraction:** Bypasses common YouTube bot-blocks by leveraging the industry-standard `youtube-dl-exec` (`yt-dlp`).
 
